@@ -1,0 +1,51 @@
+*{
+	margin:0;padding: 0
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 12px
+}
+table{
+	border-collapse: collapse;
+	width:100%;
+	margin-bottom: 25px
+	
+}
+table,th,td{
+	border:2px solid black;
+	text-transform: capitalize;
+}
+
+th{
+	height: 38px;
+
+background-color:
+#53b353;
+}
+
+td{
+	height: 28px;
+	text-align:center;
+}
+
+td:hover{
+	background-color: black;
+	color: white;
+}
+
+.button{
+	text-align: center
+}
+
+a{
+text-decoration: none;
+border: 2px solid black;
+background:#53b353;
+padding: 3px 7px;
+text-align: center;
+color: black
+}
+a:hover{
+	color:white;
+}
